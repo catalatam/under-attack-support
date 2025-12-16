@@ -6,7 +6,7 @@
 # RELATIONSHIP: DIRECT means you have a direct relationship with the ad network
 
 # Google AdMob
-google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+google.com, pub-8692199822499368, DIRECT, f08c47fec0942fa0
 
 # Instructions:
 # 1. Get your AdMob Publisher ID from: https://apps.admob.com/
