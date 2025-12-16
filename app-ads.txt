@@ -1,0 +1,16 @@
+# app-ads.txt for Under Attack
+# This file is used to prevent ad fraud and unauthorized inventory sales
+# Update the pub-XXXXXXXXXXXXXXXX with your actual AdMob Publisher ID
+
+# Format: <DOMAIN>, <PUBLISHER_ID>, <RELATIONSHIP>, <CERTIFICATION_AUTHORITY_ID>
+# RELATIONSHIP: DIRECT means you have a direct relationship with the ad network
+
+# Google AdMob
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# Instructions:
+# 1. Get your AdMob Publisher ID from: https://apps.admob.com/
+# 2. Replace pub-XXXXXXXXXXXXXXXX with your actual Publisher ID
+# 3. The certification authority ID (f08c47fec0942fa0) is Google's official TAG ID
+# 4. Keep this file in the root of your GitHub Pages (docs/ folder)
+# 5. The file will be accessible at: https://YOUR_USERNAME.github.io/under-attack/app-ads.txt
